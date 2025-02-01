@@ -1,4 +1,7 @@
 # *Testimonial Slider - Mod1*
+
+## *MOD 1*
+Mod 1 states that it's not a self-made project. Project made while learning through resources over YT!
 This is a learning-based project built using HTML, CSS, and JavaScript. The project was developed by following online resources to understand how to create a dynamic testimonial slider that smoothly transitions between user testimonials.
 
 ### *Features*
